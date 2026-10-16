@@ -9,7 +9,7 @@ This is the web version of RhodoSim with a number of extended/improved features:
 
 ## Getting started
 
-Open `rhodosim.html` in a recent web browser; there is nothing to install. If you are new to rhodotrons, the guided
+Open [`rhodosim.html`](https://erkcan.github.io/RhodoSimWeb/Web/rhodosim.html) in a recent web browser; there is nothing to install. If you are new to rhodotrons, the guided
 tour (header button) is a good start. The header also switches between English and Turkish, and day and night themes.
 
 ## What it does
