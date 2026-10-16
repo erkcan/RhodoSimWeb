@@ -11,8 +11,6 @@ using namespace std;
 
 #ifndef GUN_H
 #define GUN_H
-#define RUNGE_KUTTA
-//#define LEAP_FROG
 
 
 class Gun{

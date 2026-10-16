@@ -1,5 +1,7 @@
 #ifndef PARTICLE_H
 #define PARTICLE_H
+#define RUNGE_KUTTA
+//#define LEAP_FROG
 
 #include <cstdint>
 #include "../basic/vector.h"
